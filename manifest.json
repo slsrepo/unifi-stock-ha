@@ -1,0 +1,16 @@
+{
+  "domain": "sl_unifi_stock",
+  "name": "UniFi Stock Check",
+  "version": "1.0.0",
+  "documentation": "https://github.com/slsrepo/unifi_stock",
+  "requirements": [
+    "requests>=2.25.1",
+    "voluptuous>=0.12.1"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@slsrepo"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

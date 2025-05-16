@@ -1,0 +1,5 @@
+"""Constants for the UniFi Stock Check integration."""
+DOMAIN = "sl_unifi_stock"
+CONF_PRODUCT_URL = "product_url"
+CONF_REGION = "region"
+CONF_NAME = "name"
